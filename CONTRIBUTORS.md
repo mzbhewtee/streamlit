@@ -10,7 +10,7 @@ The contributors to the successful implementation of the project are;
 3. Brighton Mboya: Project proposal writing and assisting in implementing the code(proposed solution)
 
 
-4. Diane Uwiduhaye: Project proposal writing and assisting in implementing the code(proposed solution)
+4. Diane Uwiduhaye: Assisted in Project proposal writing
 
 
 5. Elisee Ishimwe:Assisted in writing the project proposal
