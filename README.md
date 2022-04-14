@@ -20,6 +20,10 @@ After that, install the following packages
 7. request
 8. pandas.
 
+We have included a requirement file to assist you install all dependencies. To install all dependencies, run the command below
+`pip install -r requirements.txt`
+
+
 After installing these packages, you will need to launch anaconda prompt to run and run the command below
 ### `streamlit run app.py`
 
